@@ -1,2 +1,2 @@
-# pushkar_first_-repo
+# pushkar_first_repo
 first repo of pushkarnsut
